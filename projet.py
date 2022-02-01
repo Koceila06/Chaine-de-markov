@@ -83,7 +83,7 @@ def graphe_proba(pi_0,matrice,t):
 def tirage_alea(t,matrice,pi_0):
     seq=list()
     vect=pi_0
-    for i in range(t): #t:nbr de jours
+    for i in range(t): #t:nombre de jours
         p=random.random()
         if p < vect[0] :
             seq.append(0)
@@ -97,7 +97,7 @@ def tirage_alea(t,matrice,pi_0):
     return seq
 def seq_n(t,matrice,pi_0,n):
     seq=list()
-    for i in range(n):#nbr de personne
+    for i in range(n):#nombre de personne
         seq.append(tirage_alea(t,matrice,pi_0))
     return seq
 def nb_indiv_s_i_r(matrice,t): #Q2.1.1
@@ -153,7 +153,7 @@ def graphe_pourcentage_pratique(t_liste,s,i1,r): #Q2.2
     plt.show()
     return 
 
-#q2.3 : pour un t tres grand, on remarque que tout les individus deviennent guérie, le vercteur est donc (0.0.1) on peut dire aussi que l'etat guerie est un etat absorbant 
+#q2.3 : pour un t tres grand, on remarque que tous les individus deviennent guéries, le vecteur est donc (0.0.1), on peut dire aussi que l'etat guerie est un etat absorbant 
 #pareil pour la q2.4
 
 def pic(t_liste,i):#Pic de l'épidémie
@@ -210,7 +210,7 @@ def graphe_distribution_i(p,liste_t,liste_i,nb_indiv):
     liste_theo=list()
     #p=proba d'aller de passer de i à r
     #list_t: la liste du temps
-    #liste_i:liste des individu infecté par jours
+    #liste_i:liste des individus infectés par jours
 
 
     loi_geom=loi_geo(p,len(liste_t))
