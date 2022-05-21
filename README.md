@@ -9,3 +9,11 @@ démie dans une population
 Les populations sont constituées de 3 types d’individus. Chaque individu est dans un
 des 3 états suivant : sain S, infecté I ou guéri R
   </p>
+  
+  ## Premier modèle 
+  Dans un premier temps, nous allons considérer qu’à chaque temps :
+  <ul> 
+  <li> Chaque individu sain peut rester sain ou devenir infecté </li>
+  <li> Chaque individu infecté peut rester infecté ou devenir guéri </li>
+  <li> Chaque individu guéri reste guéri </li>
+  </ul>
