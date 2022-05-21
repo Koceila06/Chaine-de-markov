@@ -17,3 +17,4 @@ des 3 états suivant : sain S, infecté I ou guéri R
   <li> Chaque individu infecté peut rester infecté ou devenir guéri </li>
   <li> Chaque individu guéri reste guéri </li>
   </ul>
+  et que la probabilité de passer d’un état à l’autre <Strong >ne dépend que de l’état précédent </Strong>
