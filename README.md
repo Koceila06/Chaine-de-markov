@@ -18,3 +18,9 @@ des 3 états suivant : sain S, infecté I ou guéri R
   <li> Chaque individu guéri reste guéri </li>
   </ul>
   et que la probabilité de passer d’un état à l’autre <Strong >ne dépend que de l’état précédent </Strong>
+  
+  ## Probabilités de transition 
+  <img width="452" alt="first_model" src="https://user-images.githubusercontent.com/77555379/169696000-37d16e86-975f-4257-97ea-4915f04a9edd.PNG">
+
+  
+## Apprentissage des paramètres d’un modèle à partir de données
