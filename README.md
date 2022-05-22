@@ -54,4 +54,8 @@ en suivant les probabilités de transition (= la matrice de transition A).
 
 <p> Une fois cela est fait, Nous allons générer un ensemble de séquences pour une population de 200 individus </p>
 
+## Evolution du nombre d’individus dans les trois états en fonction du temps
+
+<img width="412" alt="Capture" src="https://user-images.githubusercontent.com/77555379/169700286-e8985a25-5f49-4a4e-a436-94b4ce5edfc4.PNG">
+
 ## Apprentissage des paramètres d’un modèle à partir de données
