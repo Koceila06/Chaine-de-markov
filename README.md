@@ -48,5 +48,11 @@ des 3 états suivant : sain S, infecté I ou guéri R
   <Strong> Description :</Strong>  pour un temps assez grand, on remarque que les états sain et infecté converge vers 0 alors que l'état guéris converge vers 1, on peut expliquer cela du fait que l'état guéris est un état absorbant.
   </p>
 
+## Génération d'une séquence de taille T en utilisant la chaîne de Markov
+Pour générer une séquence aléatoire, on choisit un état initial au hasard (en utilisant π0) ; puis on choisit les états suivants
+en suivant les probabilités de transition (= la matrice de transition A).
 
+<p> 
+  Une fois cela est fait, Nous allons générer un ensemble de séquences pour une population de 200 individus 
+</p>
 ## Apprentissage des paramètres d’un modèle à partir de données
