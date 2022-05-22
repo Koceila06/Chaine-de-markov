@@ -41,5 +41,12 @@ des 3 états suivant : sain S, infecté I ou guéri R
  Pour calculer la distribution d'un t donné, on aura besoin juste de la distribution  de l'état précédent, on a donc : πt+1 = πt * A
  ## Représentation graphique de la probabilité d’être dans chaque état en fonction du temps
  <img width="289" alt="Représentation" src="https://user-images.githubusercontent.com/77555379/169699202-c3fefce9-a1da-4bc8-89cf-087f323874b4.PNG">
+ 
+ 
+
+<p>
+  <Strong> Déscription :</Strong>  pour un temps assez grand, on remarque que les états sain et infecté converge vers 0 alors que l'état guéris converge vers 1, on peut expliquer cela du fait que l'état guéris est un état absorbant.
+  </p>
+
 
 ## Apprentissage des paramètres d’un modèle à partir de données
