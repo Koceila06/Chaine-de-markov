@@ -84,3 +84,8 @@ une probabilité de 0.02. Ils-elles peuvent perdre leur immunité face à la mal
 
 <img width="430" alt="Capture" src="https://user-images.githubusercontent.com/77555379/169701690-aefeb5d8-079e-4509-94b3-bce2c0012dd5.PNG">
 
+## Distribution observée sur une population de 200 individus
+
+<img width="286" alt="Capture" src="https://user-images.githubusercontent.com/77555379/169701751-30b425cc-0f0c-4652-8a06-37410e77d3b3.PNG">
+
+## 
