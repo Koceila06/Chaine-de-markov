@@ -92,3 +92,52 @@ une probabilité de 0.02. Ils-elles peuvent perdre leur immunité face à la mal
 
 <img width="300" alt="Capture" src="https://user-images.githubusercontent.com/77555379/169703331-819d0f04-55fa-4169-be13-a89c2113b83f.PNG">
 
+<p> D'aprés les graphes,pour un temps assez grand, on remarque que la population a 65% de chance d'être guéris ,et 0.19% d'être infecté, et 0.16% d'être sain, l'état R n'est plus absorbant. </p>
+
+<Strong> En changeant la distribution initiale π0, on remarque que les etats converge vers les même valeurs précedentes (65% de chance d'être guéris ,0.19% d'être infecté et 0.16% d'être sain), on conclut que la distribution finale ne dépend pas de π0.</Strong>
+
+## Natures des états 
+
+<ul> 
+  <li> Récurrents car on peut y retourné infiniment de fois </li> 
+  <li> Apériodiques car l'état "sain" boucle sur lui même </li> 
+  <li> Irréductibles car avec un etat "n" on peut accéder à tout les autres états </li> 
+  </ul>
+  
+  ## Affichage de la distribution théorique et de la distribution observée de la longueur d’infection
+  
+  <img width="300" alt="Capture" src="https://user-images.githubusercontent.com/77555379/169704117-253cd59a-916f-4274-bc66-16ff70d11e8f.PNG">
+<p> 
+
+la distribution stationnaire est :
+[0.01662708 0.21852732 0.76484561]
+
+On remarque que plus on augmente la probabilité de sain à infecté, plus les individus deviennent infectés plus rapidement. On remarque aussi que la longueur de l'imunité observé se rapproche de la théorique même pour un temps inférieur à 20 (ce qui est normal vue que on ce retrouve plus vite à l'état R)
+ </p>
+ 
+ ## Confinement 
+ On peut imaginer que si des mesures de distanciation sociale sont mises en place, la probabilité de
+devenir infecté devient nulle.
+Nous allons donc alterner entre les périodes de non distanciation et de distanciation : 
+<ul> 
+  <li> En période de non-confinement, nous utilisons la matrice de transition précédentd  </li>
+  <li> En période de confinement, la probabilité de devenir infecté pour un individu sain devient nulle </li>
+  </ul>
+<Strong> On décide que  : </Strong> 
+<ul>
+  <li> Quand il y a 25% d’individus infectés dans la population, nous passons en période de confinement </li>
+  <li> Le nombre d’individus infectés va décroître. Quand il y a moins de 10% d’infectés, le confinement
+est levé</li>
+  </ul> 
+  
+  ##  Représentation de l’évolution du nombre d’indi-vidus à chaque temps t en respectant les conditions précédentes 
+  
+  <img width="282" alt="Capture" src="https://user-images.githubusercontent.com/77555379/169704537-2f214823-c1f1-4a86-8533-882bf2ee88c2.PNG">
+
+<Strong> On remarque que pour un t==150 jours : 
+Le nombre de confinement nécessaires est : 7
+Le nombre de deconfinement nécessairesest 7
+</Strong> 
+
+## Auteur
+Koceila Kemiche
