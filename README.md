@@ -62,4 +62,6 @@ en suivant les probabilités de transition (= la matrice de transition A).
 
 <img width="288" alt="Capture" src="https://user-images.githubusercontent.com/77555379/169700472-c129ed50-d3b4-408e-b4ec-813261d41f29.PNG">
 
+<p> Pour un t trés grand, la proportion d’individus sains, infectés et guéris sont 0,0,1 réspectivement. </p>
+
 ## Apprentissage des paramètres d’un modèle à partir de données
