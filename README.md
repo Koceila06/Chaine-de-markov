@@ -45,7 +45,7 @@ des 3 états suivant : sain S, infecté I ou guéri R
  
 
 <p>
-  <Strong> Déscription :</Strong>  pour un temps assez grand, on remarque que les états sain et infecté converge vers 0 alors que l'état guéris converge vers 1, on peut expliquer cela du fait que l'état guéris est un état absorbant.
+  <Strong> Description :</Strong>  pour un temps assez grand, on remarque que les états sain et infecté converge vers 0 alors que l'état guéris converge vers 1, on peut expliquer cela du fait que l'état guéris est un état absorbant.
   </p>
 
 
