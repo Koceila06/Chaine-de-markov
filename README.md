@@ -58,4 +58,8 @@ en suivant les probabilités de transition (= la matrice de transition A).
 
 <img width="412" alt="Capture" src="https://user-images.githubusercontent.com/77555379/169700286-e8985a25-5f49-4a4e-a436-94b4ce5edfc4.PNG">
 
+## Proportion d’individus sains, infectés et guéris
+
+<img width="288" alt="Capture" src="https://user-images.githubusercontent.com/77555379/169700472-c129ed50-d3b4-408e-b4ec-813261d41f29.PNG">
+
 ## Apprentissage des paramètres d’un modèle à partir de données
