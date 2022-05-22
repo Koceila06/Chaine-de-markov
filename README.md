@@ -75,10 +75,12 @@ Pour calculer la longeur théorique de l'infection, on utilise l'espérance de l
 ## Affichage de la distribution théorique et de la distribution observée de la longueur d’infection
 <p> La distribution théorique est une loi géométrique </p>
 
-![Capture](https://user-images.githubusercontent.com/77555379/169701343-7f8ddee7-040d-4699-9227-12a7a2609cff.JPG)
+<img width="302" alt="Capture" src="https://user-images.githubusercontent.com/77555379/169701661-16458b14-2e6f-4073-98d7-204da72a97ff.PNG">
+
 
 ## Modèle ergodique
 <p> Nous allons maintenant considérer un second modèle, les individus guéris peuvent redevenir sains avec
 une probabilité de 0.02. Ils-elles peuvent perdre leur immunité face à la maladie </p> 
 
-![Capture](https://user-images.githubusercontent.com/77555379/169701556-c1b8440e-fa9c-4d93-8d56-511bb47e950a.JPG)
+<img width="430" alt="Capture" src="https://user-images.githubusercontent.com/77555379/169701690-aefeb5d8-079e-4509-94b3-bce2c0012dd5.PNG">
+
