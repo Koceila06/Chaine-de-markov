@@ -64,4 +64,14 @@ en suivant les probabilités de transition (= la matrice de transition A).
 
 <p> Pour un t trés grand, la proportion d’individus sains, infectés et guéris sont 0,0,1 réspectivement. </p>
 
-## Apprentissage des paramètres d’un modèle à partir de données
+## Pic de l’épidémie
+
+Le pic de épidémie représente le temps où nous avons constaté plus de cas infectés  : Pour notre cas, on voit qu'il est enrigistré au temps 9 avec 89 individus infectés (parmis 150 )
+## Longueur de l’infection
+À partir des simulations, On estime la longueur moyenne d’une séquence de infectés à 14 jours.
+
+Pour calculer la longeur théorique de l'infection, on utilise l'espérance de la loi géométrique, pour notre cas, elle est de 14.28.
+
+## Affichage de la distribution théorique et de la distribution observée de la longueur d’infection
+<p> La distribution théorique est une loi géométrique </p>
+![Capture](https://user-images.githubusercontent.com/77555379/169701343-7f8ddee7-040d-4699-9227-12a7a2609cff.JPG)
