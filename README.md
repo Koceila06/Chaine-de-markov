@@ -74,4 +74,5 @@ Pour calculer la longeur théorique de l'infection, on utilise l'espérance de l
 
 ## Affichage de la distribution théorique et de la distribution observée de la longueur d’infection
 <p> La distribution théorique est une loi géométrique </p>
+
 ![Capture](https://user-images.githubusercontent.com/77555379/169701343-7f8ddee7-040d-4699-9227-12a7a2609cff.JPG)
