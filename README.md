@@ -53,4 +53,5 @@ Pour générer une séquence aléatoire, on choisit un état initial au hasard (
 en suivant les probabilités de transition (= la matrice de transition A).
 
 <p> Une fois cela est fait, Nous allons générer un ensemble de séquences pour une population de 200 individus </p>
+
 ## Apprentissage des paramètres d’un modèle à partir de données
