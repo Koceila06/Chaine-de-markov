@@ -136,7 +136,7 @@ est levé</li>
 
 <Strong> On remarque que pour un t==150 jours : 
   <p> Le nombre de confinement nécessaires est : 7 </p>
-  <p> Le nombre de deconfinement nécessairesest 7 </p>
+  <p> Le nombre de deconfinement nécessaires est : 7 </p>
 </Strong> 
 
 ## Auteur
