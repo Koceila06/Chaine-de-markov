@@ -90,5 +90,5 @@ une probabilité de 0.02. Ils-elles peuvent perdre leur immunité face à la mal
 
 ## Proportion d’individus sains, infectés et guéris
 
-<img width="286" alt="Capture" src="https://user-images.githubusercontent.com/77555379/169702507-503b7614-1ec9-495d-b854-8e11e6af12ca.PNG">
+<img width="300" alt="Capture" src="https://user-images.githubusercontent.com/77555379/169703331-819d0f04-55fa-4169-be13-a89c2113b83f.PNG">
 
