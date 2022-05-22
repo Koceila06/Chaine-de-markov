@@ -135,8 +135,8 @@ est levé</li>
   <img width="282" alt="Capture" src="https://user-images.githubusercontent.com/77555379/169704537-2f214823-c1f1-4a86-8533-882bf2ee88c2.PNG">
 
 <Strong> On remarque que pour un t==150 jours : 
-Le nombre de confinement nécessaires est : 7
-Le nombre de deconfinement nécessairesest 7
+  <p> Le nombre de confinement nécessaires est : 7 </p>
+  <p> Le nombre de deconfinement nécessairesest 7 </p>
 </Strong> 
 
 ## Auteur
