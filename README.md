@@ -1,4 +1,4 @@
-# Chaine-de-markov
+# Chaine de Markov
 
 ## Présentation du projet
 <p>
@@ -27,7 +27,7 @@ des 3 états suivant : sain S, infecté I ou guéri R
   <img width="452" alt="first_model" src="https://user-images.githubusercontent.com/77555379/169696000-37d16e86-975f-4257-97ea-4915f04a9edd.PNG">
 
   ## Matrice de transition 
- Représentaion des probabilités de transition sous forme de matrice ( 3 × 3 ) où chaque ligne correspond à l'état actuel et chaque colonne un état futur possible
+ Représentaion des probabilités de transition sous forme de matrice ( 3 × 3 ) où chaque ligne correspond à l'état actuel et chaque colonne à un état futur possible
  
  
  ## Vérification de matrice de transition 
